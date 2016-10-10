@@ -1,0 +1,1 @@
+/home/lisk/lisk-test/pgsql/bin/postgres "-D" "/home/lisk/lisk-test/pgsql/data"

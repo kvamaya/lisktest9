@@ -1,0 +1,215 @@
+{
+  "port": 7000,
+  "address": "0.0.0.0",
+  "version": "0.4.0d",
+  "fileLogLevel": "info",
+  "logFileName": "logs/lisk.log",
+  "consoleLogLevel": "info",
+  "trustProxy": false,
+  "db": {
+    "host": "localhost",
+    "port": 5432,
+    "database": "lisk_test",
+    "user": null,
+    "password": "password",
+    "poolSize": 20,
+    "poolIdleTimeout": 30000,
+    "reapIntervalMillis": 1000,
+    "logEvents": [
+      "error"
+    ]
+  },
+  "api": {
+    "access": {
+      "whiteList": []
+    },
+    "options": {
+      "limits": {
+        "max": 0,
+        "delayMs": 0,
+        "delayAfter": 0,
+        "windowMs": 60000
+      }
+    }
+  },
+  "peers": {
+    "list": [
+      {
+        "ip": "13.69.159.242",
+        "port": 7000
+      },
+      {
+        "ip": "40.68.34.176",
+        "port": 7000
+      },
+      {
+        "ip": "52.165.40.188",
+        "port": 7000
+      },
+      {
+        "ip": "13.82.31.30",
+        "port": 7000
+      },
+      {
+        "ip": "13.91.61.2",
+        "port": 7000
+      }
+    ],
+    "blackList": [],
+    "options": {
+      "limits": {
+        "max": 0,
+        "delayMs": 0,
+        "delayAfter": 0,
+        "windowMs": 60000
+      },
+      "maxUpdatePeers": 20,
+      "timeout": 5000
+    }
+  },
+  "forging": {
+    "force": true,
+    "secret": [
+      "clown engage menu sleep spell dinosaur upon faculty blast ginger fix account",
+      "diesel globe assist palace snap since avocado scorpion master review mass annual",
+      "churn option lyrics current lawsuit corn legend garlic keen champion wild emerge",
+      "rich warrior zero scrub warrior buddy shiver trip twist oxygen attend race",
+      "useful stumble noble follow tiny play donor evoke differ expose someone crater",
+      "figure derive fancy surprise dove claim inquiry access blanket around chase nice",
+      "mule dawn evolve shine bleak shallow catch off talk machine fringe best",
+      "pipe police feature mutual metal popular funny audit result festival process muscle",
+      "ensure post sweet venture ceiling meadow one error drop actor affair profit",
+      "pizza reject dolphin design tattoo next model found embody mountain noodle prefer",
+      "window pretty crunch grid arena tent axis trip skirt confirm click wrap",
+      "cross crater fruit lift upper hunt arrow soup soon habit garbage someone",
+      "picnic century switch pill wreck mom elite alcohol evolve receive inside that",
+      "mandate equal project hard prize chapter kit unlock fan habit black useful",
+      "drink romance rigid enable crime smile video upper donor ask promote miss",
+      "educate tape picture shock praise bounce day fatal mom laundry section wonder",
+      "distance volume nose owner myself orbit basket combine crawl proof cash length",
+      "mother crime uniform laptop hedgehog hope version sport road service dad dentist",
+      "ring offer all income sense weasel smoke expand butter custom patient duty",
+      "toilet rural wealth man culture equal suffer reunion swamp puzzle tongue meadow",
+      "want siren sight this eager hand bench license share broken link harbor",
+      "audit region evolve buddy neither sell enact verify between much valid glimpse",
+      "record move asthma exclude cotton judge good pioneer pole nurse critic weasel",
+      "exile bacon effort praise supreme old cloth never lab maze reunion remain",
+      "stuff brisk primary clown crisp okay fee bargain index suggest rough vapor",
+      "finger month velvet journey liberty awkward wagon flame betray nephew route alarm",
+      "weather mansion mutual cool meadow element detect net scrub dinosaur thrive swear",
+      "black floor host fatigue embrace congress salt bleak midnight erode toddler force",
+      "you slot post sea put distance gym sick end thunder media solar",
+      "build mountain elephant zoo frozen equal garlic margin process method knee opera",
+      "nest ozone cancel current inner naive sugar lizard gate spatial desk work",
+      "pyramid fuel holiday gauge firm interest travel token ordinary meadow exact depend",
+      "shift sight ahead tennis clinic air danger stage reform camera act icon",
+      "negative tattoo sting rival large dignity vibrant waste wreck inch busy cruise",
+      "bless typical dentist gym cactus royal auto impulse setup gasp frozen snack",
+      "ribbon gauge injury wear tiger engine execute spread midnight myth decline clown",
+      "solution segment truck depart glimpse oak injury promote interest card bench relax",
+      "play shaft winner movie cotton unique tree radio around soup decrease naive",
+      "neglect update float cousin crumble eager journey wrap evoke gloom outside common",
+      "scrub blue truth swing lab price pistol eternal evolve shock vault immense",
+      "bar across party garment bleak report among industry blind theme excite bracket",
+      "hockey index cheap idea follow tide fossil kidney devote copper rate city",
+      "wagon width street soap garlic sting gain mule favorite awake mule thought",
+      "cigar wine special doll awesome usage evolve execute solve brick aunt achieve",
+      "lab rent giggle pizza script banana pull emerge engine believe hundred select",
+      "lake meat burst notable board real card install wagon fortune stamp month",
+      "attack leisure penalty position strike detail diesel shell pyramid shrug spike degree",
+      "inject mad rough piano minimum deposit volcano pill immense forget peace check",
+      "word nature hotel mansion orchard click dinosaur try auction cabbage share feature",
+      "butter skate script salute stone response shove nest rocket grid icon correct",
+      "alpha erosion brush item steel ahead critic ridge faculty nation story fever",
+      "battle lottery reward mesh cover click blouse meat original web battle can",
+      "depend pumpkin order region pony tobacco tip ancient domain lobster kid play",
+      "caution accident oven scrap gravity runway love jump wish anchor cause novel",
+      "inquiry pen all ridge planet boil annual riot picture behind between disorder",
+      "border coral crouch section myth cereal era nerve addict true puzzle isolate",
+      "skill strike toast sad cigar dress rely pool early blossom submit main",
+      "net mutual sphere fee advance unable torch jungle question garlic moral walk",
+      "basic spoil filter law attitude aunt churn surround more island squeeze city",
+      "day denial smile enough title brush above concert marriage degree broken street",
+      "else whale domain title soap dash giggle fever guard casino airport real",
+      "post use tissue aspect nominee suspect since begin illness sign about flavor",
+      "theme fog supply devote choice canal absorb dose awesome flat spray parrot",
+      "hurt victory plastic luggage source goose matrix slot phone dress orbit march",
+      "tilt human clay slender priority stomach hybrid glad inquiry blame patrol endorse",
+      "claim shaft style ladder girl praise dynamic position ship rotate height fashion",
+      "agree wrong lyrics feature misery boost express grief erase task comfort cycle",
+      "habit tired shrug because amazing arrest address worth edit follow style kitchen",
+      "salute spring obvious glance bone essence joke admit volcano worth neutral father",
+      "style thank diagram unusual scorpion twelve tilt deal already attitude bulk obvious",
+      "foot hour swear enter idea shiver globe mercy blue stick wood grid",
+      "bone stomach chimney hour tumble hold stumble float glass good mystery chunk",
+      "social stone ladder denial arrest program tube peanut then expand copy maid",
+      "song image rare bird short essence festival exchange utility pony aware aim",
+      "popular pact federal lucky organ coffee abandon whale hobby prepare gentle country",
+      "pave scan rare flash dog flee current click addict gasp maze mention",
+      "only prize table elder napkin curious same pave output control ugly hire",
+      "exile share profit erase tape curve motor salute orient surge actor random",
+      "argue hidden erupt donate point bird unlock pulp tongue tag mail library",
+      "junk tape sea farm talk extend cake hidden year attack lemon quarter",
+      "voice doctor birth furnace usual off retire enemy spike inch zero nation",
+      "pumpkin sample isolate similar decade egg concert festival shift crystal clip outside",
+      "one useless chronic load false neither vicious live jar onion that favorite",
+      "ribbon truly day tissue stock crane depend book life soccer cloth essay",
+      "fox august motor elevator tennis blossom machine must sentence index gadget wrong",
+      "reveal distance obtain sugar emotion insane omit wave win finish burst zoo",
+      "noble actor flee regret buyer witness worth answer flee debris device birth",
+      "faculty raven print enter amateur now logic deal leave paddle start arm",
+      "endless wild private rival gossip bar negative define coconut carbon brother corn",
+      "sound valley grid bar steak cabin decorate rich arch symbol limit imitate",
+      "match install invest wink caution mansion scorpion twelve window wheel window laundry",
+      "chief essence stairs where tattoo derive void auto thrive cool bone pill",
+      "govern neglect issue canal over almost sister lobster pulse afraid sample dirt",
+      "school trend alter limb chat require prevent market exotic amount photo rubber",
+      "stomach arrange total decline almost arrest pottery despair problem local garbage grape",
+      "rely surround dinosaur hope total mechanic clean digital gas about donor home",
+      "draft drill sibling access fancy case add office first cover allow boil",
+      "remove margin benefit buddy fault law release little outdoor destroy crush visual",
+      "crew exact type wheat view top school wheat excite topple ritual select",
+      "tornado pistol amount junk ozone blame kiss mother robust pistol rubber wild",
+      "remove note immense scare resemble addict coast assume fence flip arch extend"
+    ],
+    "access": {
+      "whiteList": [
+        "127.0.0.1"
+      ]
+    }
+  },
+  "loading": {
+    "verifyOnLoading": false,
+    "loadPerIteration": 5000
+  },
+  "ssl": {
+    "enabled": false,
+    "options": {
+      "port": 443,
+      "address": "0.0.0.0",
+      "key": "./ssl/lisk.key",
+      "cert": "./ssl/lisk.crt"
+    }
+  },
+  "dapp": {
+    "masterrequired": true,
+    "masterpassword": "TjXZd9GR1C1M",
+    "autoexec": [
+      {
+        "params": [
+          "igitb2",
+          "modules.full.json"
+        ],
+        "dappid": "6738626228238256597"
+      },
+      {
+        "params": [
+          "igitb2",
+          "modules.full.json"
+        ],
+        "dappid": "7508394011815761310"
+      }
+    ]
+  },
+  "nethash": "da3ed6a45429278bac2666961289ca17ad86595d33b31037615d4b8e8f158bba"
+}
